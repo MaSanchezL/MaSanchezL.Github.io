@@ -1,5 +1,4 @@
-[https://maverickglates.github.io/](https://masanchezl.github.io/)
-
+[https://masanchezl.github.io/](https://masanchezl.github.io/)
 Fork #1 [https://github.com/AlexanderMaverick/spirithrasher.github.io](https://github.com/DiegoDev2024/DiegoDev2024.github.io)
 
 Fork #2 [https://github.com/AlexanderMaverick/DiegoDev2024.github.io](https://github.com/AlexanderMaverick/AlexanderMaverick.github.io)
